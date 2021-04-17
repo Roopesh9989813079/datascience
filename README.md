@@ -1,0 +1,2 @@
+# datascience
+TO DO THE COURSE EFFECTIVELY
